@@ -1,2 +1,2 @@
 # KudouKaito.github.io
-My Blog
+https://kudoukaito.github.io/
